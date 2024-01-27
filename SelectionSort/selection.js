@@ -16,6 +16,7 @@ function sselectionSort(arr){
     }
     return arr;
 }
+console.log(selectionSort([0,2,34,22,10,19,17]));
 
 
 // ES2015 VERSION
